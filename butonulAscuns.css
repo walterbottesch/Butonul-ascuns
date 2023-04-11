@@ -1,0 +1,19 @@
+button {
+	border:		1px solid black;	
+	width:		80px;
+	height:		20px;	
+	background-color:	yellow;
+}
+
+
+#applyButton {
+	background-color:	#81DAF5;
+}
+
+div {
+	background-color:	#D6F585;
+	text-align:	center;
+	margins:	auto;
+	vertical-align: middle;
+	padding:	50px;
+}
